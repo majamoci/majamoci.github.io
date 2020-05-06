@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## BIENVENIDO A MI PAGINA DE GITHUB
 
 You can use the [editor on GitHub](https://github.com/majamoci/majamoci.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
